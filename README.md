@@ -32,3 +32,7 @@ Support
 Documentation
 --------------
 Please see [wiki](https://github.com/Netflix/eureka/wiki) for detailed documentation.
+
+源码
+1、服务注册
+ApplicationResource.addInstance()
